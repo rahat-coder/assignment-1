@@ -1,0 +1,114 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  margin: 0;
+}
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 60px;
+}
+p {
+  font-weight: 100;
+}
+.all-section {
+  display: flex;
+  margin-bottom: 100px;
+}
+.main-divs {
+  width: 45%;
+  margin-left: 150px;
+}
+#div-one {
+  margin-top: 100px;
+}
+.goal {
+  border-left: 5px red solid;
+  border-radius: 3px;
+  padding-left: 10px;
+}
+.yellow-color {
+  color: rgb(255, 187, 0);
+}
+.img-a {
+  width: 75%;
+}
+.btn {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+.second-div {
+  display: flex;
+  margin-bottom: 0px;
+}
+.box {
+  width: 25%;
+  padding: 0px 15px;
+  border-radius: 20px;
+  margin-left: 50px;
+}
+.ill {
+  width: 50%;
+  padding-top: 30px;
+}
+.s-mission {
+  margin-left: 150px;
+  background-color: rgba(110, 135, 212, 0.308);
+}
+.s-vision {
+  background-color: rgba(236, 141, 130, 0.295);
+}
+.s-goal {
+  background-color: rgba(243, 181, 127, 0.267);
+}
+.img-b {
+  width: 50%;
+  margin-top: 130px;
+  margin-left: 200px;
+}
+.cod {
+  background-image: url(images/shapes/shape-1.png);
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-position-x: 30px;
+  background-position-y: 200px;
+  margin-bottom: 0px;
+}
+.doc {
+  margin-left: -150px;
+  margin-top: 80px;
+}
+.img-c {
+  width: 50%;
+  margin-top: 130px;
+  margin-left: 250px;
+}
+.com {
+  margin-left: 200px;
+}
+.pro {
+  background-image: url(images/shapes/shape-1.png);
+  background-size: 15%;
+  background-repeat: no-repeat;
+  background-position-x: 1350px;
+  background-position-y: 400px;
+  padding-bottom: 100px;
+}
+.fot {
+  background-color: black;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  text-align: center;
+}
+.fest-color {
+  color: rgba(97, 200, 241, 0.747);
+}
+.bottom {
+  color: white;
+  padding-bottom: 10px;
+  margin-top: -20px;
+}
